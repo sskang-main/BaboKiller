@@ -1,2 +1,2 @@
 # helloword
-test
+get out
